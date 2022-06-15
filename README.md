@@ -1,1 +1,6 @@
-# NLP_Player
+# Pedal..
+
+## NLP 
+
+### an unsupervised learning situation
+ 
