@@ -1,6 +1,4 @@
 # Pedal..
-
-## NLP 
-
-### an unsupervised learning situation
+ 
+Unsupervised learning situation
  
